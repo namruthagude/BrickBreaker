@@ -1,29 +1,61 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\New Games\\Brick Breaker\\",
+  "WorkspaceRootPath": "E:\\BrickBreaker\\Brick Breaker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F17171B9-765B-ADD1-326D-BD23F60E0999}|Assembly-CSharp.csproj|e:\\new games\\brick breaker\\assets\\scripts\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\BrickBreaker\\Brick Breaker\\Library\\PackageCache\\com.unity.timeline@1.7.6\\Editor\\Actions\\ActionManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.timeline@1.7.6\\Editor\\Actions\\ActionManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\BrickBreaker\\Brick Breaker\\Library\\PackageCache\\com.unity.timeline@1.7.6\\Editor\\Actions\\IAction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.timeline@1.7.6\\Editor\\Actions\\IAction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\BrickBreaker\\Brick Breaker\\Library\\PackageCache\\com.unity.burst@1.8.18\\Editor\\BurstInspectorGUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.burst@1.8.18\\Editor\\BurstInspectorGUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\BrickBreaker\\Brick Breaker\\Library\\PackageCache\\com.unity.collections@1.2.4\\Unity.Collections.BurstCompatibilityGen\\BurstCompatibilityTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.collections@1.2.4\\Unity.Collections.BurstCompatibilityGen\\BurstCompatibilityTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\BrickBreaker\\Brick Breaker\\Library\\PackageCache\\com.unity.2d.sprite@1.0.0\\Editor\\SpriteEditorModule\\SpriteFrameModule\\SpriteFrameModule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.2d.sprite@1.0.0\\Editor\\SpriteEditorModule\\SpriteFrameModule\\SpriteFrameModule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\BrickBreaker\\Brick Breaker\\Library\\PackageCache\\com.unity.visualscripting@1.9.8\\Editor\\VisualScripting.Core\\Reflection\\TypeOptionTree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.visualscripting@1.9.8\\Editor\\VisualScripting.Core\\Reflection\\TypeOptionTree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17171B9-765B-ADD1-326D-BD23F60E0999}|Assembly-CSharp.csproj|E:\\BrickBreaker\\Brick Breaker\\assets\\scripts\\manager\\authenticationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17171B9-765B-ADD1-326D-BD23F60E0999}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\authenticationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\BrickBreaker\\Brick Breaker\\Library\\PackageCache\\com.unity.burst@1.8.18\\Editor\\BurstPlatformAotSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.burst@1.8.18\\Editor\\BurstPlatformAotSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17171B9-765B-ADD1-326D-BD23F60E0999}|Assembly-CSharp.csproj|E:\\BrickBreaker\\Brick Breaker\\assets\\scripts\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F17171B9-765B-ADD1-326D-BD23F60E0999}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F17171B9-765B-ADD1-326D-BD23F60E0999}|Assembly-CSharp.csproj|E:\\New Games\\Brick Breaker\\assets\\scripts\\paddle movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F17171B9-765B-ADD1-326D-BD23F60E0999}|Assembly-CSharp.csproj|E:\\BrickBreaker\\Brick Breaker\\assets\\scripts\\paddle movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F17171B9-765B-ADD1-326D-BD23F60E0999}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\paddle movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F17171B9-765B-ADD1-326D-BD23F60E0999}|Assembly-CSharp.csproj|E:\\New Games\\Brick Breaker\\assets\\scripts\\ui\\hudui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F17171B9-765B-ADD1-326D-BD23F60E0999}|Assembly-CSharp.csproj|E:\\BrickBreaker\\Brick Breaker\\assets\\scripts\\ui\\hudui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F17171B9-765B-ADD1-326D-BD23F60E0999}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\hudui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F17171B9-765B-ADD1-326D-BD23F60E0999}|Assembly-CSharp.csproj|E:\\New Games\\Brick Breaker\\assets\\scripts\\ui\\gameui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F17171B9-765B-ADD1-326D-BD23F60E0999}|Assembly-CSharp.csproj|E:\\BrickBreaker\\Brick Breaker\\assets\\scripts\\ui\\gameui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F17171B9-765B-ADD1-326D-BD23F60E0999}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\gameui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F17171B9-765B-ADD1-326D-BD23F60E0999}|Assembly-CSharp.csproj|E:\\New Games\\Brick Breaker\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F17171B9-765B-ADD1-326D-BD23F60E0999}|Assembly-CSharp.csproj|E:\\BrickBreaker\\Brick Breaker\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F17171B9-765B-ADD1-326D-BD23F60E0999}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F17171B9-765B-ADD1-326D-BD23F60E0999}|Assembly-CSharp.csproj|E:\\New Games\\Brick Breaker\\assets\\scripts\\ui\\gameoverui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F17171B9-765B-ADD1-326D-BD23F60E0999}|Assembly-CSharp.csproj|E:\\BrickBreaker\\Brick Breaker\\assets\\scripts\\ui\\gameoverui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F17171B9-765B-ADD1-326D-BD23F60E0999}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\gameoverui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,24 +82,126 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Paddle Movement.cs",
-              "DocumentMoniker": "E:\\New Games\\Brick Breaker\\Assets\\Scripts\\Paddle Movement.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Paddle Movement.cs",
-              "ToolTip": "E:\\New Games\\Brick Breaker\\Assets\\Scripts\\Paddle Movement.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Paddle Movement.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAAABoAAAAEAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ActionManager.cs",
+              "DocumentMoniker": "E:\\BrickBreaker\\Brick Breaker\\Library\\PackageCache\\com.unity.timeline@1.7.6\\Editor\\Actions\\ActionManager.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.timeline@1.7.6\\Editor\\Actions\\ActionManager.cs",
+              "ToolTip": "E:\\BrickBreaker\\Brick Breaker\\Library\\PackageCache\\com.unity.timeline@1.7.6\\Editor\\Actions\\ActionManager.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.timeline@1.7.6\\Editor\\Actions\\ActionManager.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAIAwwIEAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T11:59:09.19Z",
+              "WhenOpened": "2025-09-24T18:00:15.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SpriteFrameModule.cs",
+              "DocumentMoniker": "E:\\BrickBreaker\\Brick Breaker\\Library\\PackageCache\\com.unity.2d.sprite@1.0.0\\Editor\\SpriteEditorModule\\SpriteFrameModule\\SpriteFrameModule.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.2d.sprite@1.0.0\\Editor\\SpriteEditorModule\\SpriteFrameModule\\SpriteFrameModule.cs",
+              "ToolTip": "E:\\BrickBreaker\\Brick Breaker\\Library\\PackageCache\\com.unity.2d.sprite@1.0.0\\Editor\\SpriteEditorModule\\SpriteFrameModule\\SpriteFrameModule.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.2d.sprite@1.0.0\\Editor\\SpriteEditorModule\\SpriteFrameModule\\SpriteFrameModule.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAIAwwCEAAACDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T17:56:59.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TypeOptionTree.cs",
+              "DocumentMoniker": "E:\\BrickBreaker\\Brick Breaker\\Library\\PackageCache\\com.unity.visualscripting@1.9.8\\Editor\\VisualScripting.Core\\Reflection\\TypeOptionTree.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.visualscripting@1.9.8\\Editor\\VisualScripting.Core\\Reflection\\TypeOptionTree.cs",
+              "ToolTip": "E:\\BrickBreaker\\Brick Breaker\\Library\\PackageCache\\com.unity.visualscripting@1.9.8\\Editor\\VisualScripting.Core\\Reflection\\TypeOptionTree.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.visualscripting@1.9.8\\Editor\\VisualScripting.Core\\Reflection\\TypeOptionTree.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T17:55:06.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAction.cs",
+              "DocumentMoniker": "E:\\BrickBreaker\\Brick Breaker\\Library\\PackageCache\\com.unity.timeline@1.7.6\\Editor\\Actions\\IAction.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.timeline@1.7.6\\Editor\\Actions\\IAction.cs",
+              "ToolTip": "E:\\BrickBreaker\\Brick Breaker\\Library\\PackageCache\\com.unity.timeline@1.7.6\\Editor\\Actions\\IAction.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.timeline@1.7.6\\Editor\\Actions\\IAction.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAIAwwFQAAACcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T17:54:26.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthenticationManager.cs",
+              "DocumentMoniker": "E:\\BrickBreaker\\Brick Breaker\\Assets\\Scripts\\Manager\\AuthenticationManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\AuthenticationManager.cs",
+              "ToolTip": "E:\\BrickBreaker\\Brick Breaker\\Assets\\Scripts\\Manager\\AuthenticationManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\AuthenticationManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T12:59:17.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BurstPlatformAotSettings.cs",
+              "DocumentMoniker": "E:\\BrickBreaker\\Brick Breaker\\Library\\PackageCache\\com.unity.burst@1.8.18\\Editor\\BurstPlatformAotSettings.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.burst@1.8.18\\Editor\\BurstPlatformAotSettings.cs",
+              "ToolTip": "E:\\BrickBreaker\\Brick Breaker\\Library\\PackageCache\\com.unity.burst@1.8.18\\Editor\\BurstPlatformAotSettings.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.burst@1.8.18\\Editor\\BurstPlatformAotSettings.cs",
+              "ViewState": "AgIAAEUDAAAAAAAAAAAmwFEDAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T12:20:01.162Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "BurstInspectorGUI.cs",
+              "DocumentMoniker": "E:\\BrickBreaker\\Brick Breaker\\Library\\PackageCache\\com.unity.burst@1.8.18\\Editor\\BurstInspectorGUI.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.burst@1.8.18\\Editor\\BurstInspectorGUI.cs",
+              "ToolTip": "E:\\BrickBreaker\\Brick Breaker\\Library\\PackageCache\\com.unity.burst@1.8.18\\Editor\\BurstInspectorGUI.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.burst@1.8.18\\Editor\\BurstInspectorGUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T12:19:37.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BurstCompatibilityTests.cs",
+              "DocumentMoniker": "E:\\BrickBreaker\\Brick Breaker\\Library\\PackageCache\\com.unity.collections@1.2.4\\Unity.Collections.BurstCompatibilityGen\\BurstCompatibilityTests.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.collections@1.2.4\\Unity.Collections.BurstCompatibilityGen\\BurstCompatibilityTests.cs",
+              "ToolTip": "E:\\BrickBreaker\\Brick Breaker\\Library\\PackageCache\\com.unity.collections@1.2.4\\Unity.Collections.BurstCompatibilityGen\\BurstCompatibilityTests.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.collections@1.2.4\\Unity.Collections.BurstCompatibilityGen\\BurstCompatibilityTests.cs",
+              "ViewState": "AgIAAIECAAAAAAAAAIAwwJACAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T12:18:19.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Paddle Movement.cs",
+              "DocumentMoniker": "E:\\BrickBreaker\\Brick Breaker\\Assets\\Scripts\\Paddle Movement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Paddle Movement.cs",
+              "ToolTip": "E:\\BrickBreaker\\Brick Breaker\\Assets\\Scripts\\Paddle Movement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Paddle Movement.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAABoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T11:59:09.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "HUDUI.cs",
-              "DocumentMoniker": "E:\\New Games\\Brick Breaker\\Assets\\Scripts\\UI\\HUDUI.cs",
+              "DocumentMoniker": "E:\\BrickBreaker\\Brick Breaker\\Assets\\Scripts\\UI\\HUDUI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\HUDUI.cs",
-              "ToolTip": "E:\\New Games\\Brick Breaker\\Assets\\Scripts\\UI\\HUDUI.cs",
+              "ToolTip": "E:\\BrickBreaker\\Brick Breaker\\Assets\\Scripts\\UI\\HUDUI.cs",
               "RelativeToolTip": "Assets\\Scripts\\UI\\HUDUI.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -75,11 +209,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "GameOverUI.cs",
-              "DocumentMoniker": "E:\\New Games\\Brick Breaker\\Assets\\Scripts\\UI\\GameOverUI.cs",
+              "DocumentMoniker": "E:\\BrickBreaker\\Brick Breaker\\Assets\\Scripts\\UI\\GameOverUI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\GameOverUI.cs",
-              "ToolTip": "E:\\New Games\\Brick Breaker\\Assets\\Scripts\\UI\\GameOverUI.cs",
+              "ToolTip": "E:\\BrickBreaker\\Brick Breaker\\Assets\\Scripts\\UI\\GameOverUI.cs",
               "RelativeToolTip": "Assets\\Scripts\\UI\\GameOverUI.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -87,11 +221,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "GameUI.cs",
-              "DocumentMoniker": "E:\\New Games\\Brick Breaker\\Assets\\Scripts\\UI\\GameUI.cs",
+              "DocumentMoniker": "E:\\BrickBreaker\\Brick Breaker\\Assets\\Scripts\\UI\\GameUI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\GameUI.cs",
-              "ToolTip": "E:\\New Games\\Brick Breaker\\Assets\\Scripts\\UI\\GameUI.cs",
+              "ToolTip": "E:\\BrickBreaker\\Brick Breaker\\Assets\\Scripts\\UI\\GameUI.cs",
               "RelativeToolTip": "Assets\\Scripts\\UI\\GameUI.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAcwBgAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -99,11 +233,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "GameManager.cs",
-              "DocumentMoniker": "E:\\New Games\\Brick Breaker\\Assets\\Scripts\\GameManager.cs",
+              "DocumentMoniker": "E:\\BrickBreaker\\Brick Breaker\\Assets\\Scripts\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
-              "ToolTip": "E:\\New Games\\Brick Breaker\\Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "E:\\BrickBreaker\\Brick Breaker\\Assets\\Scripts\\GameManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAAwCwAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -111,16 +245,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "Ball.cs",
-              "DocumentMoniker": "E:\\New Games\\Brick Breaker\\Assets\\Scripts\\Ball.cs",
+              "DocumentMoniker": "E:\\BrickBreaker\\Brick Breaker\\Assets\\Scripts\\Ball.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Ball.cs",
-              "ToolTip": "E:\\New Games\\Brick Breaker\\Assets\\Scripts\\Ball.cs",
+              "ToolTip": "E:\\BrickBreaker\\Brick Breaker\\Assets\\Scripts\\Ball.cs",
               "RelativeToolTip": "Assets\\Scripts\\Ball.cs",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFcAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAtwI4AAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T08:37:08.169Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-18T08:37:08.169Z"
             }
           ]
         }

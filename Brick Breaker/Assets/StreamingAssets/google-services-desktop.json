@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "462221003861",
+    "project_id": "brickbreaker-34b0a",
+    "storage_bucket": "brickbreaker-34b0a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462221003861:android:bad35bfa793328d8fc58dc",
+        "android_client_info": {
+          "package_name": "com.GudeGamezz.BrickBreaker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIri6hR3UEoRI91NmeUc3TYD52phb6g8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
